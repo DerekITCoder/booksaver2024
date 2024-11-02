@@ -1,0 +1,120 @@
+#savedList {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 50px; /*makes list to top right */
+}
+
+
+#booksList li {
+    padding-bottom: 150px; /* make space between thr list */
+
+    font-family: 'Arial', sans-serif; /* Change to your desired font */
+    color: mediumblue
+    
+
+}
+
+#myText {
+    position: absolute; /* Use absolute positioning */
+    top: 110px; /* Adjust as needed for spacing from the top */
+    left: 300px; /* Adjust as needed for spacing from the right */
+    background-color: white; /* Optional: Background color for visibility */
+    padding: 10px; /* Optional: Padding for aesthetics */
+    border: 1px solid #ccc; /* Optional: Border for visibility */
+    width: 300px;
+}
+
+
+
+#header2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px; /*makes list to top right */
+    font-size: 30px;
+}
+
+
+#myText2 {
+    position: absolute; /* Use absolute positioning */
+    top: 290px; /* Adjust as needed for spacing from the top */
+    left: 315px; /* Adjust as needed for spacing from the right */
+    background-color: white; /* Optional: Background color for visibility */
+    padding: 10px; /* Optional: Padding for aesthetics */
+    border: 1px solid #ccc; /* Optional: Border for visibility */
+    width: 400px;
+}
+
+
+#myText3 {
+    position: absolute; /* Use absolute positioning */
+    top: 450px; /* Adjust as needed for spacing from the top */
+    left: 330px; /* Adjust as needed for spacing from the right */
+    background-color: rgb(255, 255, 255); /* Optional: Background color for visibility */
+    padding: 10px; /* Optional: Padding for aesthetics */
+    border: 1px solid #ccc; /* Optional: Border for visibility */
+    width: 400px;
+}
+
+
+body {
+    background-image: linear-gradient(rgba(0, 213, 255, 0.768),rgba(255, 255, 255, 0.947));
+  
+
+}
+
+
+
+
+#button1 {
+    position: absolute;
+    top: 100px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+#button2 {
+    position: absolute;
+    top: 280px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+#button3 {
+    position: absolute;
+    top: 440px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+#button {
+    position: absolute;
+    top: 100px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+#button {
+    position: absolute;
+    top: 100px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+#button {
+    position: absolute;
+    top: 100px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+#button {
+    position: absolute;
+    top: 100px;     /* Adds a 10px gap from the top */
+    Left: 170px;   /* Adds a 10px gap from the right */
+}
+
+
+
+
+
